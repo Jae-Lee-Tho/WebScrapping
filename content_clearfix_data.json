@@ -1,0 +1,78 @@
+[
+    {
+        "url": "https://mammothmemory.net/physics/physics-formulas/force/force.html",
+        "sections": [
+            {
+                "h1_texts": [
+                    "Force"
+                ],
+                "h2_texts": [
+                    "Force is measured in N (Newtons)"
+                ],
+                "paragraphs": [
+                    "Force must be applied to an object to alter its speed or change its direction of movement. Force is calculated using the formula below:",
+                    "Forcethemammoth (mass)away (acceleration).",
+                    "Forcethemammoth (mass)away (acceleration) but she just lifted me up by thenose (Newton).",
+                    "NOTE:",
+                    "This formula was famously discovered by Sir Isaac Newton. So important is this formula that the standard unit in which force is measured was named after Newton – Newtons (N).",
+                    "Example 1",
+                    "The diagram shows the horizontal forces acting on a car travelling along a straight road. The forward force is thrust and the rearward force is drag.",
+                    "Calculate the size of the resultant force acting on the car.",
+                    "If the car accelerates at1.5m/s21.5m/s2what is its mass?",
+                    "Answer",
+                    "Resultant force=2000–500=1500N=2000–500=1500N",
+                    "Force = mass x acceleration",
+                    "Divide both sides by acceleration to make mass the subject,",
+                    "$\\frac{Force}{acceleration}=\\frac{mass\\times\\strike{acceleration}}{\\strike{acceleration}}$Forceacceleration​=mass×accelerationacceleration​​",
+                    "$mass=\\frac{Force}{acceleration}$mass=Forceacceleration​​",
+                    "Therefore the car's mass=15001.5=1000kg=15001.5=1000kg",
+                    "Example 2",
+                    "A remote control car has a mass of0.5kg0.5kg. If its electric motor accelerates the car at5m/s25m/s2, what force does the electric motor provide?",
+                    "Answer",
+                    "Force = mass x acceleration",
+                    "Force=0.5×5=2.5N=0.5×5=2.5N",
+                    "Example 3",
+                    "The diagram shows the horizontal forces acting on a car of mass 1200 kg.",
+                    "Calculate the acceleration of the car at the instant shown in the diagram. Write down the equation you use, and then show clearly how you work out your answer and give the unit.",
+                    "Answer",
+                    "Force = mass x acceleration",
+                    "Divide both sides by mass to make acceleration the subject,",
+                    "$\\frac{Force}{mass}=\\frac{\\strike{mass\\times}acceleration}{\\strike{mass}}$Forcemass​=mass×accelerationmass​​",
+                    "$acceleration=\\frac{Force}{mass}$acceleration=Forcemass​​",
+                    "$acceleration=\\frac{\\left(3500-2000\\right)}{1200}$acceleration=(3500−2000)1200​​",
+                    "$acceleration=\\frac{\\left(1500\\right)}{1200}=1.25m/s^2$acceleration=(1500)1200​=1.25m/s2​"
+                ],
+                "img_urls": [
+                    "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-formula-force-01.6d178d1.jpg",
+                    "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-memory-aid-04physics-formulas-.44d1db5.jpg",
+                    "https://mammothmemory.net/images/user/base/Physics/Physics Formula/newton-memory-aid-05-physics-formulas-.d1133c2.jpg",
+                    "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-acting-on-a-smart-car-example-1-11-physics-formulas.2a222dd.jpg",
+                    "https://mammothmemory.net/images/user/base/Physics/Physics Formula/force-acting-on-an-estate-car-example-2-13-physics-formulas.0dcf020.jpg",
+                    "",
+                    "",
+                    "",
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https://mammothmemory.net/chemistry/periodic-table/elements-of-the-periodic-table/elements-of-the-periodic-table.html#chlorine",
+        "sections": [
+            {
+                "h1_texts": [],
+                "h2_texts": [
+                    "Chlorine"
+                ],
+                "paragraphs": [
+                    "Chlorine(Cl)",
+                    "Chlorine is illustrated by a swimming pool and a giantClaw (Cl)."
+                ],
+                "img_urls": [
+                    "https://mammothmemory.net/images/user/base/Chemistry/4. Periodic Table/2.4.33 Chlorine memory aid.jpg",
+                    "https://mammothmemory.net/images/user/base/Chemistry/4. Periodic Table/2.4.34 Chlorine atomic shells.jpg"
+                ]
+            }
+        ]
+    }
+]
