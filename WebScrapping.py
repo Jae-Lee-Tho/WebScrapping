@@ -56,14 +56,14 @@ for url in url_list:
         
         section_data = {}
 
-        # 헤더(h1~h6) 추출
+        # 헤더 추출
         h_tags = sec_truncated.find_all(["h1", "h2", "h3", "h4", "h5", "h6"])
         for i, h in enumerate(h_tags, start=1):
             header_text = get_raw_text(h)
             if header_text:
                 section_data[f"name{i}"] = header_text
 
-        # 화학 페이지용 원소 이름/기호 검출 (원소 이름은 최종 결과에 포함하지 않음)
+        # 화학 페이지용 원소 이름/기호 검출 
         element_name_tag = sec_truncated.find(id="pt-controls-name-mobile")
         element_symbol_tag = sec_truncated.find(id="pt-controls-symbol-mobile")
         element_name_text = ""
@@ -99,7 +99,7 @@ for url in url_list:
         if red_dict:
             section_data["red_content"] = red_dict
 
-        # 이미지(img) 추출 (예시: 화학 페이지의 경우 두번째 이미지는 건너뛰도록 설정)
+        # 이미지(img) 추출 
         img_tags = sec_truncated.find_all("img")
         included_img_count = 1
         for j, img in enumerate(img_tags, start=1):
@@ -122,7 +122,6 @@ for url in url_list:
 
         if caption_texts:
             joined_caption = " ".join(caption_texts)
-            # 만약 이미 p2가 있다면 뒤에 이어 붙이고, 없으면 p2 새로 생성
             if "p2" in section_data:
                 section_data["p2"] = section_data["p2"] + " " + joined_caption
             else:
